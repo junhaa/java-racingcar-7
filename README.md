@@ -19,4 +19,4 @@ InputView
 - [x] 사용자 입력
 
 OutputView
-- [ ] 내용 콘솔 출력
+- [x] 내용 콘솔 출력
