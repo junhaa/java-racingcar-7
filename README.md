@@ -16,7 +16,7 @@ RacingCarController
 - [ ] 사용자 입력이 잘못된 경우 다시 입력받기
 
 InputView
-- [ ] 사용자 입력
+- [x] 사용자 입력
 
 OutputView
 - [ ] 내용 콘솔 출력
